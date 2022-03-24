@@ -1,0 +1,27 @@
+body{
+    background-size:cover;
+    background-color: lightblue;
+}
+.heading{
+    font-size:25px;
+    width:100%;
+    margin:0px;
+}
+#start,#number_of_objects,#status{
+    font-size:25px;
+}
+canvas{
+    box-shadow:5px 5px 5px grey;
+    border:3px solid white;
+    border-radius: 10px;
+    margin-top:140px;
+}
+.copy_right_footer{
+    position:fixed;
+    color:red;
+    bottom:0;
+    width:100%;
+    background-color: aquamarine;
+    text-align:center;
+    line-height:2;
+}
